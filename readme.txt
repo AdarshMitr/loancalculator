@@ -1,1 +1,1 @@
-// -----This is a Load Calulator app----- //
+// -----This is a Loan Calulator app----- //
